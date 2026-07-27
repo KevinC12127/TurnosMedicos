@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "gestionturnosmedicos.client\\gestionturnosmedicos.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GestionTurnosMedicos.Server\\GestionTurnosMedicos.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
